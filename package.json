@@ -1,0 +1,16 @@
+{
+  "name": "cypressDemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:chrome": "cypress open --browser chrome"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^8.6.0"
+  }
+}
