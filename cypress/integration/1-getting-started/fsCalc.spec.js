@@ -14,5 +14,6 @@ describe('My First Test', () => {
       cy.get('#adults')
         .type('7')
         .should('have.value', '7')
+        //remove
     })
   })
