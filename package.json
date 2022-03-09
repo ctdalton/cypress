@@ -4,13 +4,12 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "cypress:open": "cypress open",
-    "cypress:chrome": "cypress open --browser chrome"
+    "cypress:open": "cypress open"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
-  "dependencies": {
-    "cypress": "^8.6.0"
+  "devDependencies": {
+    "cypress": "^9.5.1"
   }
 }
